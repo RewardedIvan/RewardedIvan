@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RewardedIvan
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning C++
+- 📱  My  favorite game right now is "Friday night Funkin"
